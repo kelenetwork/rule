@@ -3,6 +3,7 @@
 # 域名关键字匹配
 DOMAIN-KEYWORD,micu
 DOMAIN-KEYWORD,sakiko
+DOMAIN-KEYWORD,cn2gias
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,023168.xyz
