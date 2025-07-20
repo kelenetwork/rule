@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,ke1e.de
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,node
+DOMAIN-KEYWORD,sub
