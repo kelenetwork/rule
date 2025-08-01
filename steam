@@ -1,4 +1,4 @@
-  - DOMAIN-SUFFIX,steamcontent.com
-  - DOMAIN-SUFFIX,steampowered.com
-  - DOMAIN-SUFFIX,steamstatic.com
-  - DOMAIN-SUFFIX,akamaized.ne
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,akamaized.ne
